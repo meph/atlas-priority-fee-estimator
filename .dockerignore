@@ -4,7 +4,6 @@ dist/
 build/
 coverage/
 vendor/
-.env
 
 # Node Logs
 logs
